@@ -18,4 +18,4 @@ Currently studying in FAST University. :man_technologist:
 
 ## Social media :mailbox_with_no_mail:
 
-[Do NOT click 😋](https://www.instagram.com/that_cheeky_nobody?igsh=c25hbXRwZzJzcmhs)
+[Do NOT click 😋](https://youtu.be/xvFZjo5PgG0?si=d2XT3SycXvRAFNdA)
