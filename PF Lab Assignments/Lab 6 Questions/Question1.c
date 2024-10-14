@@ -8,7 +8,5 @@ int main(){
 	  total += num;
 	  printf("%d\n", total);
 	} while(num != 0);
-	printf("1");
 	return 0;
-	printf("2");
 }
