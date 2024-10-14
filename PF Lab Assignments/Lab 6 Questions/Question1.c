@@ -9,4 +9,5 @@ int main(){
 	  printf("%d\n", total);
 	} while(num != 0);
 	return 0;
+	printf("2");
 }
