@@ -2,7 +2,7 @@
 #include <string.h>
 
 int main(){
-    char list[5][20] = {"Omer", "Aashir", "maham", "racecar"};
+    char list[5][20] = {"Omer", "mom", "aliza", "racecar"};
     int num;
 
 
@@ -17,7 +17,7 @@ int main(){
             printf("%s is a palindrome\n", list[i]);
         }
         else{
-            printf("%s is not a  palindrome\n", list[i]);
+            printf("%s is not a palindrome\n", list[i]);
         }
     }
     return 0;
